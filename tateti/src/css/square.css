@@ -1,0 +1,15 @@
+.square{
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    font-size: 32px;
+    font-weight: bold;
+}
+.cell-x {
+    color: green;
+
+  }
+  
+  .cell-o {
+    color: blue;
+  }
